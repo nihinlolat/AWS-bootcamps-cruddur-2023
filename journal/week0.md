@@ -4,6 +4,10 @@
 
 I initially had difficulty in using Gitpod/Github codespace but eventually figured it out after several attempts
 
-### Create a billing alarm
+### Create a Budget
 
-#### Create a budget
+I created my own Budget for $10 because i cannot afford extra spending
+I also created a Zero spend budget 
+(Image of the Budget Alarm i created)(asset/Budget.png)
+
+#### Create a Billing Alarm
