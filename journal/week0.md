@@ -1,5 +1,9 @@
 # Week 0 — Billing and Architecture
 
-## Required Homework challenges
+## Required Homework challenges/ Tasks
 
-I was having difficulty in using Gitpod or Github codespace
+I initially had difficulty in using Gitpod/Github codespace but eventually figured it out after several attempts
+
+### Create a billing alarm
+
+#### Create a budget
