@@ -13,4 +13,5 @@ I also created a Zero spend budget
 #### Create a Billing Alarm
 
 I created a Billing Alarm for my budget to ensure it's within the threshold
-(Image of the Billing Alarm
+
+### Create Logical
