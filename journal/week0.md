@@ -11,3 +11,6 @@ I also created a Zero spend budget
 (Image of the Budget Alarm i created)(asset/Budget.png)
 
 #### Create a Billing Alarm
+
+I created a Billing Alarm for my budget to ensure it's within the threshold
+(Image of the Billing Alarm
