@@ -15,7 +15,8 @@ I also created a Zero spend budget
 I created a Billing Alarm for my budget to ensure it's within the threshold
 
 ##### Created a Conceptual design on Napkin
-!.[Image of the Conceptual Design on Napkin i created].(
+
+!.[Image of the Conceptual Design on Napkin i created].(asset/Conceptual%20design%20on%20Napkin.jpg)
 
 ### Create Logical Architectural design
 
@@ -23,3 +24,29 @@ I created a Billing Alarm for my budget to ensure it's within the threshold
 
 .[Lucid Charts Share Link].(https://lucid.app/lucidchart/2b7080b0-19b4-4244-b7e2-85c0979f808c/edit?viewport_loc=-48%2C93%2C1601%2C699%2C0_0&invitationId=inv_bee6e7e0-a080-4e8d-bee0-5772be631420)
 )
+## Referencing a file in a codebase
+
+[week-0-again/journal/asset/Budget.png)](https://github.com/nihinlolat/AWS-bootcamps-cruddur-2023/blob/week-0-again/journal/asset/Budget.png)
+
+Example of referencing a file in my repo
+
+## List Example
+- This 
+- Is
+- A
+- List
+
+1. This
+2. Is
+3. A
+4. Ordered
+5. List
+
+## Table Example
+
+| My| Cool| Table
+| ---| ---| ---
+| Hello | World | ! |
+
+
+
