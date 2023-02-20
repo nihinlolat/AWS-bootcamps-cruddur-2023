@@ -14,6 +14,9 @@ I also created a Zero spend budget
 
 I created a Billing Alarm for my budget to ensure it's within the threshold
 
+##### Created a Conceptual design on Napkin
+!.[Image of the Conceptual Design on Napkin i created].(
+
 ### Create Logical Architectural design
 
 !.[Cruddur Logical Design].(asset/Logical%20Architecture%20recreation%20diagram.jpeg)
